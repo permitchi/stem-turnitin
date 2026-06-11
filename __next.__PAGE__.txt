@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[678,["/stem-turnitin/_next/static/chunks/158myu8e_yme3.js","/stem-turnitin/_next/static/chunks/3xk7v1k0d1-wd.js"],"default"]
+3:I[35265,["/stem-turnitin/_next/static/chunks/158myu8e_yme3.js","/stem-turnitin/_next/static/chunks/3xk7v1k0d1-wd.js"],"default"]
+4:I[97367,["/stem-turnitin/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col min-h-screen bg-[#DDDAD0] font-sans dark:bg-[#3C3D37]","children":[["$","nav",null,{"className":"w-full flex items-center justify-between px-6 py-4 bg-[#697465] shadow-md text-[#DDDAD0]","children":["$","div",null,{"className":"flex-shrink-0","children":"Micka Nurhaliza Vallery - 1313623025"}]}],["$","main",null,{"className":"flex flex-1 w-full flex-col items-center justify-between bg-[#DDDAD0] dark:bg-[#3C3D37]","children":[["$","$L2",null,{}],["$","$L3",null,{}]]}]]}],[["$","script","script-0",{"src":"/stem-turnitin/_next/static/chunks/3xk7v1k0d1-wd.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"A2o29ej51M6Vfpu9OPAnP"}
+6:null
